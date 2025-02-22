@@ -41,4 +41,4 @@ criterion = "0.5.1"  # Used for benchmarks
 [[bench]]
 harness = false
 name = "benchmark_adb_push"
-path = "./benches/benchmark_adb_push.rs"
+path = "../benches/benchmark_adb_push.rs"
